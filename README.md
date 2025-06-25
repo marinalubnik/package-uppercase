@@ -1,2 +1,21 @@
 # package-uppercase
-This package converts all words to uppercase
+
+Этот пакет конвертирует в верхний регистр строки
+
+Краткое описание пакета
+
+## Требования
+
+- PHP 8.4
+
+## Установка
+
+composer require marina-lubnik/package-uppercase
+
+## Использование
+
+<?php  
+  
+$processor = new StringToUppercase();  
+echo $processor->getStringToUpper('string')' // STRING
+```
