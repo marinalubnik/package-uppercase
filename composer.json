@@ -1,0 +1,16 @@
+{
+    "name": "marina-lubnik/package-uppercase",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MarinaLubnik\\PackageUppercase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Марина Лубник",
+            "email": "m.kalinina@21vek.by"
+        }
+    ],
+    "require": {}
+}
