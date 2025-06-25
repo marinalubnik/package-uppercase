@@ -14,8 +14,8 @@ composer require marina-lubnik/package-uppercase
 
 ## Использование
 
-<?php  
-  
-$processor = new StringToUppercase();  
-echo $processor->getStringToUpper('string')' // STRING
-```
+```php
+<?php
+
+$processor = new StringToUppercase();
+echo $processor->getStringToUpper('string'); // STRING
