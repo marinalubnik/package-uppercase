@@ -4,10 +4,6 @@
 
 Краткое описание пакета
 
-## Требования
-
-- PHP 8.4
-
 ## Установка
 
 composer require marina-lubnik/package-uppercase
