@@ -4,6 +4,8 @@
 
 Краткое описание пакета
 
+PHP >= 5.3.
+
 ## Установка
 
 composer require marina-lubnik/package-uppercase
